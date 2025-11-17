@@ -1,6 +1,9 @@
 <h1>Hi, I'm Sawyer!</h1>
 
 <h2>Data Science Projects:</h2>
+
+- <b>Customer Churn Analysis Prediction<b>
+  - [Project](https://github.com/sawyerpl/Sprint_4_Project)
  
 - <b>Sprint 4 Project</b>
   - [Sprint 4 Project](https://github.com/sawyerpl/Sprint_4_Project)
