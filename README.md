@@ -3,7 +3,7 @@
 <h2>Data Science Projects:</h2>
 
 - <b>Customer Churn Analysis Prediction<b>
-  - [Project](https://github.com/sawyerpl/Sprint_4_Project)
+  - [Project](https://github.com/sawyerpl/Churn-Prediction-Analysis)
  
 - <b>Sprint 4 Project</b>
   - [Sprint 4 Project](https://github.com/sawyerpl/Sprint_4_Project)
