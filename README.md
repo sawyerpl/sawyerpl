@@ -2,14 +2,10 @@
 
 <h2>Data Science Projects:</h2>
 
-- <b>Customer Churn Analysis Prediction<b>
-  - [Project](https://github.com/sawyerpl/Churn-Prediction-Analysis)
+- [Customer Churn Analysis Prediction](https://github.com/sawyerpl/Churn-Prediction-Analysis)
  
-- <b>Sprint 4 Project</b>
-  - [Sprint 4 Project](https://github.com/sawyerpl/Sprint_4_Project)
-    
-- <b>App</b>
-  - [App](https://sprint-4-project-249f.onrender.com/)
+- [Vehicle Data Analysis](https://github.com/sawyerpl/Sprint_4_Project)
+  - [Vehicle Data Analysis App](https://sprint-4-project-249f.onrender.com/)
 
 
 <h2>Connect with me:</h2>
