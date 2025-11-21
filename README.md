@@ -4,8 +4,8 @@
 
 - [Customer Churn Analysis Prediction](https://github.com/sawyerpl/Churn-Prediction-Analysis)
  
-- [Vehicle Data Analysis](https://github.com/sawyerpl/Sprint_4_Project)
-  - [Vehicle Data Analysis App](https://sprint-4-project-249f.onrender.com/)
+- [Streamlit Data Dashboard](https://github.com/sawyerpl/Sprint_4_Project)
+  - [Streamlit Data Dashboard App](https://sprint-4-project-249f.onrender.com/)
 
 
 <h2>Connect with me:</h2>
