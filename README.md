@@ -1,4 +1,6 @@
 <h1>Hi, I'm Sawyer!</h1>
+I’m transitioning into a career in data science. I come from a strong background in customer-facing roles, problem-solving, and helping people make informed decisions. I’m now applying those skills to building data-driven projects, learning new technologies, and writing clean, meaningful code.
+
 
 <h2>Data Science Projects:</h2>
 
